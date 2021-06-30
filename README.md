@@ -32,7 +32,7 @@
       #copyright{
           color: #3d3d3d;
           text-decoration: underline;
-          margin-top:350px
+          margin-top:300px
       }
     </style>
 </head>
