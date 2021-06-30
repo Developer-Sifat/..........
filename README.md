@@ -21,6 +21,7 @@
       background-color:#182C61;
           color:white;
           padding:10px;
+         margin-bottom:7px;
       }
       #demo {
           color:white;
